@@ -1,0 +1,16 @@
+.card-body{
+    border:3px solid black;
+    text-align:center;
+    background-color:bisque;
+    display:flex;
+    flex-flow:column wrap;
+
+
+}
+p{
+    color:navy;
+    text:uppercase;
+}
+h1{
+    text-align:center;
+}
